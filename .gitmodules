@@ -1,0 +1,12 @@
+[submodule "2screen"]
+	path = 2screen
+	url = https://github.com/dracorp/2screen.git
+[submodule "apt-sn"]
+	path = apt-sn
+	url = https://github.com/dracorp/apt-sn.git
+[submodule "lspack"]
+	path = lspack
+	url = https://github.com/dracorp/lspack.git
+[submodule "qlist"]
+	path = qlist
+	url = https://github.com/dracorp/qlist.git

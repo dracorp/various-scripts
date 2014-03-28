@@ -4,6 +4,10 @@ To get all submodules:
 
 `git clone --recursive https://github.com/dracorp/various-scripts.git`
 
-Update submodule:
+Update submodule/project:
 
-`git submodule foreach git pull origin master`
+```
+git pull
+git submodule init
+git submodule update
+```

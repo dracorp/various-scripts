@@ -10,3 +10,6 @@
 [submodule "qlist"]
 	path = qlist
 	url = https://github.com/dracorp/qlist.git
+[submodule "shell-includes"]
+	path = shell-includes
+	url = https://github.com/dracorp/shell-includes.git

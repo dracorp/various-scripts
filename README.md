@@ -1,4 +1,4 @@
-Meta project for a various scripts as submodule.
+Meta project for various scripts as submodule.
 
 To get all submodules:
 
